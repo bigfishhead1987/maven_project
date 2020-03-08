@@ -1,3 +1,5 @@
+package codetest;
+
 import java.util.ArrayList;
 
 public class WordDictionary {
